@@ -1,0 +1,11 @@
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\bin\Debug\netcoreapp2.1\ThorinsCompany.deps.json
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\bin\Debug\netcoreapp2.1\ThorinsCompany.runtimeconfig.json
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\bin\Debug\netcoreapp2.1\ThorinsCompany.runtimeconfig.dev.json
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\bin\Debug\netcoreapp2.1\ThorinsCompany.dll
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\bin\Debug\netcoreapp2.1\ThorinsCompany.pdb
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\obj\Debug\netcoreapp2.1\ThorinsCompany.csprojAssemblyReference.cache
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\obj\Debug\netcoreapp2.1\ThorinsCompany.csproj.CoreCompileInputs.cache
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\obj\Debug\netcoreapp2.1\ThorinsCompany.AssemblyInfoInputs.cache
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\obj\Debug\netcoreapp2.1\ThorinsCompany.AssemblyInfo.cs
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\obj\Debug\netcoreapp2.1\ThorinsCompany.dll
+d:\GitLab\primary\ThorinsCompany\ThorinsCompany\obj\Debug\netcoreapp2.1\ThorinsCompany.pdb
